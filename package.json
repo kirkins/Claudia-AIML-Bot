@@ -1,0 +1,16 @@
+{
+  "name": "AIML Bot",
+  "version": "1.0.0",
+  "description": "Simple aiml bot built with claudia",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip R. Kirkbride",
+  "license": "MIT",
+  "dependencies": {
+    "aimlinterpreter": "^0.1.7",
+    "claudia-bot-builder": "^1.4.1",
+    "minimal-request-promise": "^1.3.0"
+  }
+}
