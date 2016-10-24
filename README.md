@@ -1,4 +1,4 @@
-See https://github.com/kirkins/Claudia-AIML-Bot-2 for new version buiilt from scratch.
+See https://github.com/kirkins/Claudia-AIML-Bot-2 for the second version of this bot with extra functions. 
 
 # Claudia AIML Bot
 
