@@ -14,6 +14,7 @@ A node.js app using Claudia. Allows users to chat with a bot on facebook. Edit `
 
 ### Resources
 
+* [Pokedex Bot Example](https://github.com/kirkins/PokedexBot)
 * [More on using Claudia](https://aws.amazon.com/blogs/compute/create-and-deploy-a-chat-bot-to-aws-lambda-in-five-minutes/)
 * [Claudia](https://github.com/claudiajs/claudia-bot-builder)
 * [What is AIML](http://www.alicebot.org/aiml.html)
