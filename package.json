@@ -1,5 +1,5 @@
 {
-  "name": "AIML Bot",
+  "name": "aimlbot",
   "version": "1.0.0",
   "description": "Simple aiml bot built with claudia",
   "main": "bot.js",
